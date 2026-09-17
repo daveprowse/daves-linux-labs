@@ -4,7 +4,7 @@ When I sit down to a Linux system I've never touched before, the first thing I d
 
 Here are 20+ of them.
 
-📺 **Watch the video:** [INSERT YOUTUBE LINK HERE]
+📺 **Watch the video:** https://www.youtube.com/watch?v=1KEkceIvgh8
 
 🌐 **Website:** https://prowse.tech
 
