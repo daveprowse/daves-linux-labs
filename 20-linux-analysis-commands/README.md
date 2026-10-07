@@ -1,4 +1,4 @@
-# Know Your Linux System! — 20 Linux Analysis Commands (of Perpetual Power)
+# ⚙️ Know Your Linux System! — 20 Linux Analysis Commands (of Perpetual Power)
 
 When I sit down to a Linux system I've never touched before, the first thing I do is run a series of commands to figure out what I'm dealing with.
 

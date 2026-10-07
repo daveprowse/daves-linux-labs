@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (c) 2026 Dave Prowse | MIT License
+# Companion script for Prowse Tech (Dave's Linux Labs)
 
 # Ensure the script is run with sudo if needed for certain commands
 if [ "$EUID" -ne 0 ]; then
