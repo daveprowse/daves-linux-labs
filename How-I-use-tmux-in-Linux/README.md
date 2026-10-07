@@ -2,7 +2,7 @@
 
 `tmux` is a terminal multiplexer that lets you run multiple terminals in one SSH session, split your screen any way you want, and keep your sessions alive even after disconnection. This lab walks through everything in the video — from basic pane splits to plugins to VS Code integration. It's pure terminal multiplexing plethoricalness!
 
-📺 **Watch the video:** [INSERT VIDEO LINK]
+📺 **Watch the video:** https://youtu.be/7KEaC9c18fY
 
 🌐 **Website:** https://prowse.tech
 
