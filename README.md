@@ -9,7 +9,7 @@ Welcome to the official repository for **Dave's Linux Labs**. This repository co
 Navigate through the available labs below. Clicking a directory link will instantly open the lab guide and expose its associated scripts.
 
 * 📁 **[20-linux-analysis-commands](./20-linux-analysis-commands/)** — Core Linux commands for system analysis and auditing.
-* 📁 **[How-I-Use-tmux-in-Linux](./How-I-Use-tmux-in-Linux/)** — Terminal multiplexing guide and automated workspace scripts.
+* 📁 **[How-I-use-tmux-in-Linux](./How-I-use-tmux-in-Linux/)** — Terminal multiplexing guide and automated workspace scripts.
 
 ---
 
