@@ -10,6 +10,7 @@ Navigate through the available labs below. Clicking a directory link will instan
 
 * 📁 **[20-linux-analysis-commands](./20-linux-analysis-commands/)** — Core Linux commands for system analysis and auditing.
 * 📁 **[How-I-use-tmux-in-Linux](./How-I-use-tmux-in-Linux/)** — Terminal multiplexing guide and automated workspace scripts.
+* 📁 **[Voice-Dictation-in-Linux-with-Vocalinux](./Voice-Dictation-in-Linux-with-Vocalinux/)** — Using Vocalinux to dictate into our Linux applications and Terminal.
 
 ---
 
