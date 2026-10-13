@@ -21,8 +21,9 @@ Local, private, push-to-talk dictation using Vocalinux and whisper.cpp — no cl
 ## Prerequisites
 
 - A Linux system
-- Microphone or headset connected and working
-- GPU with Vulkan support (recommended; CPU fallback available)
+  - Recommended 2 GB RAM available for small English model.
+  - Microphone or headset connected and working
+  - GPU with Vulkan support (recommended; CPU fallback available)
 - Git installed
 - A Bash shell
 
